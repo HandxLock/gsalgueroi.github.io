@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #About-Section {
-  background-image: url("../img/bg-hero_02.jpg");
+  background-image: url("../img/bgcom.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -14,7 +14,7 @@ body {
 /* Mis trabajos */
 
 #Trabajos-Colaborativos {
-  background-image: url("../img/bg-hero_02.jpg");
+  background-image: url("../img/bgworks.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;

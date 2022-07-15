@@ -1,5 +1,5 @@
-# Desafio06_CV
+# Desafio Final
 ----------------------------
-##Ejemplo CV
+## Proyecto de Gino
 
-Ejemplo de CV usando HTML, CSS y BT
+
